@@ -2,7 +2,7 @@
 
 # Screenshots
 
-## Students
+## User
 <img src="https://user-images.githubusercontent.com/72748315/179929983-c25d852c-0f5c-4319-a095-73b0b6bff19f.png">
 <img src="https://user-images.githubusercontent.com/72748315/179931190-a7520afc-c463-4b1f-9ed9-498849fdc1d5.png">
 <img src="https://user-images.githubusercontent.com/72748315/179931354-65088b7d-bca6-4c3d-89fb-1a94c093dbbd.png">
